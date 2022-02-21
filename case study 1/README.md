@@ -23,12 +23,5 @@ The traditional analytical method has low precision and narrow application range
 • Easy construction and can be used in every house.
 
 
-Bit Details  	High Value(1)  	Low Value(0)
-EA	        Least significant 5 bits can decide enable or disable of these five interrupts.	Disable all five interrupts. It just ignores the rest five bits.
-ES        	Enable Serial Port Interrupt	Disable Serial Port Interrupt
-ET1	       Enable Timer1 interrupt	Disable Timer1 interrupt
-EX1	       Enable external interrupt 1 (INT1)	Disable external interrupt 1 (INT1)
-ET0	       Enable Timer0 interrupt	Disable Timer0 interrupt
-EX0	       Enable external interrupt 0 (INT0)	Disable external interrupt 0 (INT0)
 
 
