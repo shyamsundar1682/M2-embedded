@@ -43,12 +43,12 @@ The speed at which data is handled is additionally diminished by drowsiness.
 ## 2.2 Low level requirements:
 | LLR |	HLR |	Description  |
 |-----|-----|----------------|
-| LLR_01 | HLR_01 |	
-| LLR_02 | HLR_01 |	
-| LLR_03 | HLR_02 |	
-| LLR_04 | HLR_02 |	
-| LLR_05 | HLR_03 |	
-| LLR_06 | HLR_03 |	
+| LLR_01 | HLR_01 | This shall detect the drowsiness |
+| LLR_02 | HLR_01 | It	alert the driver |
+| LLR_03 | HLR_02 | It build a Driver Drowsiness Detection through RF Transceiver module |
+| LLR_04 | HLR_02 | It shall track the driver’s eye movements using Eye blink Sensor |
+| LLR_05 | HLR_03 | It shall trigger a warning message using a loud buzzer alert |
+	
 
 
 	
