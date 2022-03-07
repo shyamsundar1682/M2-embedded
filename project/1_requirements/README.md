@@ -30,3 +30,20 @@ Drowsiness decreases reaction time which is a genuine component of secure drivin
 It likewise lessens readiness, cautiousness, and focus with the goal that the ability to perform consideration based exercises for example driving is hindered. 
 
 The speed at which data is handled is additionally diminished by drowsiness.
+
+## 2 Requirements:
+
+## 2.1 High level requirements:
+
+| HILR | DESCRIPTION |
+|------|-------------|
+| HLR_01	| This shall monitor the blinking of eyes |
+| HLR_02	| This shall Alert the drivers |
+
+
+
+
+	
+	
+	
+
