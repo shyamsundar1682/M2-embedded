@@ -11,9 +11,15 @@ Road accidents became a matter of concern due to the huge increase in traffic. T
  
 ## 1.3 Identifying features:
 i) Arduino Nano.
+
 ii) Eyeblink Sensor.
+
 iii) RF Transceiver Module.
+
 iv) HD12E & HD12D IC.
+
 v) Buzzer.
+
 vi) 9V Battery.
+
 vii) 12V DC power supply.
