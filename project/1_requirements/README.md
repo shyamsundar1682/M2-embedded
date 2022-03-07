@@ -40,7 +40,15 @@ The speed at which data is handled is additionally diminished by drowsiness.
 | HLR_01	| This shall monitor the blinking of eyes |
 | HLR_02	| This shall Alert the drivers |
 
-
+## 2.2 Low level requirements:
+| LLR |	HLR |	Description  |
+|-----|-----|----------------|
+| LLR_01 | HLR_01 |	
+| LLR_02 | HLR_01 |	
+| LLR_03 | HLR_02 |	
+| LLR_04 | HLR_02 |	
+| LLR_05 | HLR_03 |	
+| LLR_06 | HLR_03 |	
 
 
 	
