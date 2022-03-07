@@ -23,3 +23,8 @@ v) Buzzer.
 vi) 9V Battery.
 
 vii) 12V DC power supply.
+
+## 1.4 State of art:
+Drowsiness decreases reaction time which is a genuine component of secure driving. 
+It likewise lessens readiness, cautiousness, and focus with the goal that the ability to perform consideration based exercises for example driving is hindered. 
+The speed at which data is handled is additionally diminished by drowsiness.
