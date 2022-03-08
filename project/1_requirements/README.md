@@ -48,7 +48,7 @@ The speed at which data is handled is additionally diminished by drowsiness.
 | LLR_04 | HLR_02 | It shall track the driver’s eye movements using Eye blink Sensor |
 | LLR_05 | HLR_03 | It shall trigger a warning message using a loud buzzer aler
 
-![Block](https://github.com/rajprasanth27k/M2-EmbSys/blob/d25629946d62fe6332052b50fefbad7c7e692f82/Project/2_Architecture/Block.PNG)
+![Capture](https://github.com/shyamsundar1682/M2-embedded/blob/2aa43332b92a15bbd4c20814fea465757dd9f822/project/1_requirements/Capture.PNG)
 	
 
 
