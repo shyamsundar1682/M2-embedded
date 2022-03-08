@@ -52,6 +52,8 @@ The speed at which data is handled is additionally diminished by drowsiness.
 
 ![Capture](https://github.com/shyamsundar1682/M2-embedded/blob/2aa43332b92a15bbd4c20814fea465757dd9f822/project/1_requirements/Capture.PNG)
 
+![Capture](https://github.com/shyamsundar1682/M2-embedded/blob/2aa43332b92a15bbd4c20814fea465757dd9f822/project/1_requirements/Capture.PNG)
+
 
 
 
