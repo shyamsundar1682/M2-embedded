@@ -51,6 +51,8 @@ The speed at which data is handled is additionally diminished by drowsiness.
 ## Swort analysis
 
 ![Capture](https://github.com/shyamsundar1682/M2-embedded/blob/2aa43332b92a15bbd4c20814fea465757dd9f822/project/1_requirements/Capture.PNG)
+
+https://github.com/shyamsundar1682/M2-embedded/blob/508059c8b3fba7c2d245d38f1c9c5cf0c7523b8d/project/1_requirements/Eye-Blink-Sensor-Working.jpg
 	
 
 
