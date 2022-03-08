@@ -13,3 +13,15 @@
   #### The energy emitted by the infrared source is reflected by an object and falls back on the infrared detector. 
   #### When the light emitted by the IR LED falls on the receiver, the resistance of the photodiode falls down significantly. 
   #### This photoreceiver is connected with a potentiometer to form a voltage divider circuit, which gives a variable analog output when blinking activity is detected.
+  
+  # 1.3 RF Transceiver Module
+  
+  The RF transceiver module is used in the transmission and reception of radio frequency signals.
+  
+  # 1.4 12V DC power supply
+  
+  Its basically takes an input of 14-20V AC or DC and outputs a constant voltage of 12V. 
+  
+  It can supply a maximum of 1A of current at 12V. 
+  
+  The board comes with appropriate rectification, filtering circuit, a power indication LED and mounting holes for easy mounting.
