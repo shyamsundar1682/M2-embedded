@@ -9,3 +9,9 @@
 
 ## BADGE OF CODACY
 ![Codacy Badge](https://app.codacy.com/project/badge/Grade/7b0ba810afda443f8345f94cd46fea09)
+
+## BADGE OF CODIGA
+| Codiga | Codiga | 
+| --- | --- | 
+| ![quality score](https://api.codiga.io/project/31773/score/svg)| ![project quality](https://api.codiga.io/project/31773/status/svg) |     
+
