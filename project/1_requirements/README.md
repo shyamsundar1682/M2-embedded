@@ -52,7 +52,7 @@ The speed at which data is handled is additionally diminished by drowsiness.
 
 ![Capture](https://github.com/shyamsundar1682/M2-embedded/blob/2aa43332b92a15bbd4c20814fea465757dd9f822/project/1_requirements/Capture.PNG)
 
-![Capture](https://github.com/shyamsundar1682/M2-embedded/blob/db507e041925743650e02f77cdfd40e19dc996b9/project/1_requirements/Eye-Blink-Sensor-Working.jpg)
+
 
 
 
