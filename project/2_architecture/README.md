@@ -17,8 +17,24 @@
   # 1.3 RF Transceiver Module
   
   The RF transceiver module is used in the transmission and reception of radio frequency signals.
-  
-  # 1.4 12V DC power supply
+
+The RF transmitter module uses Amplitude Shift Keying (ASK) and operates at 433MHz. The transmitter module takes serial data input and transmits that signal through RF. The transmitted signals are then received by the receiver module wirelessly.
+
+Ground: Transmitter ground. Connect to the ground plane.
+Data: Serial data input pin.
+VCC: Supply voltage; 5V.
+ANT: Antenna output pin.
+
+# 1.4 RF Receiver
+
+The RF receiver module receives the data and sends it to the data OUTPUT pin. The output data can be decoded by the Microcontroller for further action.
+
+Ground: Receiver ground. Connect to the ground plane.
+Data: Serial data output pin.
+VCC: Supply voltage; 5V.
+ANT: Antenna output pin.
+
+  # 1.5 12V DC power supply
   
   Its basically takes an input of 14-20V AC or DC and outputs a constant voltage of 12V. 
   
