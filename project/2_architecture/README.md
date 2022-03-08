@@ -22,7 +22,9 @@ The RF transmitter module uses Amplitude Shift Keying (ASK) and operates at 433M
 
 Ground: Transmitter ground. Connect to the ground plane.
 Data: Serial data input pin.
+
 VCC: Supply voltage; 5V.
+
 ANT: Antenna output pin.
 
 # 1.4 RF Receiver
@@ -31,7 +33,9 @@ The RF receiver module receives the data and sends it to the data OUTPUT pin. Th
 
 Ground: Receiver ground. Connect to the ground plane.
 Data: Serial data output pin.
+
 VCC: Supply voltage; 5V.
+
 ANT: Antenna output pin.
 
   # 1.5 12V DC power supply
