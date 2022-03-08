@@ -6,3 +6,5 @@
 | 04 | TESTPLAN AND OUTPUT | 
 | 05 | REPORT | 
 | 06 | IMAGES AND VIDEOS |
+
+![Codacy Badge](https://app.codacy.com/project/badge/Grade/7b0ba810afda443f8345f94cd46fea09)|
