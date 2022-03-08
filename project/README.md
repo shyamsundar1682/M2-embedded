@@ -1,1 +1,8 @@
-
+| S.NO | TITLE | DESCRIPTION |
+|------|-------|-------------|
+| 01 | REQUIREMENTS |
+| 02 | ARCHITECTURE |
+| 03 | IMPLEMENTATION |
+| 04 | TESTPLAN AND OUTPUT |
+| 05 | REPORT |
+| 06 | IMAGES AND VIDEOS |
